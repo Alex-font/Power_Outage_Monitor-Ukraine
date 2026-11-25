@@ -1,4 +1,4 @@
-# Power_Outage_Monitor-Ukraine
+# Power Outage Monitor  -Ukraine
 Монітор відключення світла за графіком - Україна.
 # Монітор відключень світла: ESP32-C3 Super Mini + 240х240 екран ST7789
 
